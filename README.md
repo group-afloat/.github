@@ -1,1 +1,2 @@
-# .github
+# Sozosei Abyss
+Some obscure org.
