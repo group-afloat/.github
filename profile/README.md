@@ -1,2 +1,2 @@
-# Sozosei Abyss
-Some obscure org.
+# [afloat]
+adultswim but with a slight change in gravity ;)
