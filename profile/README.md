@@ -1,2 +1,2 @@
 
-cool thing to come
+cool things to come
